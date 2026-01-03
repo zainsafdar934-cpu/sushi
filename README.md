@@ -4,7 +4,7 @@ A modern, responsive website for Sushiman, showcasing the authentic taste of Jap
 
 ## 🌟 Live Preview
 
-Check out the live version: [Sushiman Live](https://bank-modern-app-two-ivory.vercel.app/)
+Check out the live version: [Sushiman Live](https://sushi-vercel.vercel.app/)
 
 ## ✨ Features
 
