@@ -29,7 +29,7 @@ Check out the live version: [Sushiman Live](https://sushi-vercel.vercel.app/)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sushiman.git
+   git clone https://github.com/zainsafdar934-cpu/sushiman.git
    cd sushiman
    ```
 
